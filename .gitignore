@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+#Ignore Visual Studio Code file
+MessageBox
 # VS Code ignores
 main
 tests
